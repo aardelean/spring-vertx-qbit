@@ -53,7 +53,6 @@ dependencies {
     compile "io.vertx:vertx-mongo-client:3.1.0"
     compile "io.vertx:vertx-web:3.1.0"
     compile "org.glassfish.jersey.core:jersey-client:2.22"
-    quasar "co.paralleluniverse:quasar-core:0.7.3:jdk8"
     capsule "co.paralleluniverse:capsule:1.0.1"
     testCompile 'junit:junit:4.11'
     jmh 'commons-io:commons-io:2.4'
